@@ -5,5 +5,3 @@ set more off
 sysuse auto
 
 reg price mpg
-
-reg price mpg control1 control2 control3
